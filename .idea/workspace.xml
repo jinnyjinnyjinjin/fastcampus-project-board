@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f936e66f-d5c1-4b52-a00e-ceca9c831481" name="Changes" comment="#6-스프링 부트 프로젝트 시작&#10;스프링 부트 프로젝트 초기화&#10;들어간 초기 기술은:&#10;&#10;- 스프링 웹&#10;- 엑츄에이터&#10;- 데브툴즈&#10;- 롬복" />
+    <list default="true" id="f936e66f-d5c1-4b52-a00e-ceca9c831481" name="Changes" comment=".gitignore 파일 재생성">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,34 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="project-board" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="project-board" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
@@ -28,12 +59,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1673271881" />
+                    <option name="branchName" value="#4-domain" />
+                    <option name="lastUsedInstant" value="1673273012" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="feature/#6-boot" />
-                    <option name="lastUsedInstant" value="1673271880" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1673271881" />
                   </RecentBranch>
                 </list>
               </option>
@@ -53,20 +84,20 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MTRecommendedPlugins&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;21a0b134ab803e0fda52b04658bb3d83&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "21a0b134ab803e0fda52b04658bb3d83",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="fastcampus-project-board" />
@@ -108,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673271573909</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".gitignore 파일 재생성">
+      <created>1673273290578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673273290578</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +165,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#6-스프링 부트 프로젝트 시작&#10;스프링 부트 프로젝트 초기화&#10;들어간 초기 기술은:&#10;&#10;- 스프링 웹&#10;- 엑츄에이터&#10;- 데브툴즈&#10;- 롬복" />
-    <option name="LAST_COMMIT_MESSAGE" value="#6-스프링 부트 프로젝트 시작&#10;스프링 부트 프로젝트 초기화&#10;들어간 초기 기술은:&#10;&#10;- 스프링 웹&#10;- 엑츄에이터&#10;- 데브툴즈&#10;- 롬복" />
+    <MESSAGE value=".gitignore 파일 재생성" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore 파일 재생성" />
   </component>
 </project>
